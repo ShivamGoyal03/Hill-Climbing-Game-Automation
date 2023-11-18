@@ -37,10 +37,6 @@ pip install -r requirements.txt
 - Open Fist - Acceleration
 - Closed Fist - Brake
 
-## Note
-
-This is a basic implementation and may not work perfectly in all situations. It is recommended to use in a well-lit environment for best results.
-
 ## Contributors
 
 - [Shivam Goyal](https://www.linkedin.com/in/shivam2003/)

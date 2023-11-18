@@ -44,5 +44,5 @@ This is a basic implementation and may not work perfectly in all situations. It 
 
 ## Contributors
 
-- [Shivam Goyal](www.linkedin.com/in/shivam2003/)
-- [Saransh Shukla](www.linkedin.com/in/saransh2003)
+- [Shivam Goyal](https://www.linkedin.com/in/shivam2003/)
+- [Saransh Shukla](https://www.linkedin.com/in/saransh2003)

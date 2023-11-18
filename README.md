@@ -25,12 +25,12 @@ Currently, the script recognizes two gestures: a left swipe and a right swipe. T
 pip install -r requirements.txt
 ```
 
-4. Run `main.py`.
+4. Run `main.ipynb`.
 
 ## How to Use
 
 1. Ensure your webcam is set up and working.
-2. Run `main.py`.
+2. Run `main.ipynb`.
 3. Move your hand in front of the webcam to control the game or application.
 
 ## Key Bindings
@@ -44,5 +44,5 @@ This is a basic implementation and may not work perfectly in all situations. It 
 
 ## Contributors
 
-- Shivam Goyal
-- Saransh Shukla
+- [Shivam Goyal](www.linkedin.com/in/shivam2003/)
+- [Saransh Shukla](www.linkedin.com/in/saransh2003)

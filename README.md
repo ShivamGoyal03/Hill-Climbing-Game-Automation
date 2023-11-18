@@ -13,7 +13,6 @@ Currently, the script recognizes two gestures: a left swipe and a right swipe. T
 - cv2
 - mediapipe
 - time
-- directkeys
 
 ## Installation
 

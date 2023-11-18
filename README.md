@@ -4,7 +4,7 @@ This project uses MediaPipe and OpenCV to recognize hand gestures from a video f
 
 ## Project Description
 
-The project uses a webcam to capture video and then processes each frame to detect hand landmarks using MediaPipe's Hands solution. The detected hand landmarks are used to determine whether certain gestures are being made. If a gesture is recognized, the script simulates a key press using the `directkeys` module.
+The project uses a webcam to capture video and then processes each frame to detect hand landmarks using MediaPipe's Hands solution. The detected hand landmarks are used to determine whether certain gestures are being made. If a gesture is recognized, the script simulates a key press using the user defined module `directkeys`.
 
 Currently, the script recognizes two gestures: a left swipe and a right swipe. These gestures are mapped to the left and right arrow keys, respectively. This allows the user to control a game or application by swiping their hand left or right.
 

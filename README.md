@@ -1,0 +1,48 @@
+# Hand Gesture Recognition with MediaPipe and OpenCV
+
+This project uses MediaPipe and OpenCV to recognize hand gestures from a video feed and simulate key presses. It's designed to allow users to control a game or application using hand gestures instead of traditional input methods.
+
+## Project Description
+
+The project uses a webcam to capture video and then processes each frame to detect hand landmarks using MediaPipe's Hands solution. The detected hand landmarks are used to determine whether certain gestures are being made. If a gesture is recognized, the script simulates a key press using the `directkeys` module.
+
+Currently, the script recognizes two gestures: a left swipe and a right swipe. These gestures are mapped to the left and right arrow keys, respectively. This allows the user to control a game or application by swiping their hand left or right.
+
+## Dependencies
+
+- cv2
+- mediapipe
+- time
+- directkeys
+
+## Installation
+
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Install the necessary dependencies using the command 
+
+```
+pip install -r requirements.txt
+```
+
+4. Run `main.py`.
+
+## How to Use
+
+1. Ensure your webcam is set up and working.
+2. Run `main.py`.
+3. Move your hand in front of the webcam to control the game or application.
+
+## Key Bindings
+
+- Open Fist - Acceleration
+- Closed Fist - Brake
+
+## Note
+
+This is a basic implementation and may not work perfectly in all situations. It is recommended to use in a well-lit environment for best results.
+
+## Contributors
+
+- Shivam Goyal
+- Saransh Shukla
